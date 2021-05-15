@@ -1,6 +1,6 @@
 '''
 @author: Beril Gökçe Çiçek
-'''#
+'''
 
 import tkinter as tk
 from tkinter import *
